@@ -39,7 +39,7 @@ function Login() {
     <>
       <Navbar />
 
-      <section className="login-body">
+      <section className="login-body hero">
         <div className="login-container">
           <a href="/" className="close-login">
             ❌
