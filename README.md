@@ -1,1 +1,1 @@
-# BeanCraft-CoffeeShop-Frontend-
+# BeanCraft-CoffeeShop-Frontend
